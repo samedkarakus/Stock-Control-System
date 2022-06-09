@@ -1,2 +1,2 @@
 # Stock-Control-System
-Controling the content of stock system. System is about the product , product stock and supplier informations. You can add and delete any of them to create the system.
+It stores the product, product stock and supplier data entered by the user. It completes the system by adding or deleting this data.
